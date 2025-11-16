@@ -1,6 +1,6 @@
 # Ex.No:2  
 # Ex.Name: Write a C++ program to calculate the electricity bill using multilevel inheritance.  
-## Date:  
+## Date: 21/08/2025
 
 ## Aim:  
 To calculate the electricity bill using the concept of multilevel inheritance in C++.  
