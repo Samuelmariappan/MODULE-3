@@ -2,7 +2,7 @@
 # Ex.Name: Write a C++ program to add the two numbers using inheritance.  
 (Declare two input variable as protected in base class and read one value in one derived class and read another value in its derived class and do the addition operation in its derived class.)  
 
-## Date:  
+## Date: 21/08/2025  
 
 ## Aim:  
 To write a C++ program using multilevel inheritance, where the base class stores two numbers, the first derived class reads the first number, the second derived class reads the second number, and performs the addition operation.  
