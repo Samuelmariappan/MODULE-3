@@ -1,7 +1,7 @@
 # Ex.No:3  
 # Ex.Name: Write a C++ program to do integer arithmetic operation using muliple inheritance( + and - operation in one class,* and / in another class).
 
-## Date:  
+## Date: 21/08/2025  
 
 ## Aim:  
 To write a C++ program using multiple inheritance, where one base class provides salary, another base class provides tax amount, and the derived class computes net income after the payment of tax.  
